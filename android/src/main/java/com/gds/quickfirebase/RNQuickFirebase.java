@@ -1,10 +1,11 @@
 package com.gds.quickfirebase;
 
 import android.annotation.SuppressLint;
-import android.app.Activity;
-import android.support.annotation.NonNull;
 import android.os.Bundle;
 import android.text.TextUtils;
+
+import androidx.annotation.NonNull;
+
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.Promise;
 import com.facebook.react.bridge.ReactApplicationContext;
